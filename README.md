@@ -5,6 +5,6 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=overshiki&layout=compact&theme=dark">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overshiki&layout=compact">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overshiki&layout=compact&hide=jupyter%20notebook">
 </picture>
 
