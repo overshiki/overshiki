@@ -8,7 +8,7 @@ Bayesian | Haskeller | Quantum computing | PL/compilers | numerics
 
 # Current focus:
 - applying PL and compiler techniques into quantum computing field
-- Building toolkits for quantum error correction
+- building toolkits for quantum error correction
 - accelerating Haskell's numerical computations through code generation
 - enhancing numerical computation through symbolic inference
 
