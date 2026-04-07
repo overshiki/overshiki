@@ -1,1 +1,1 @@
-I do haskell and quantum computing
+I do haskell, PL and quantum computing
